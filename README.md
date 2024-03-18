@@ -1,6 +1,5 @@
-# Simple CNN Verilog Project
-simple Convolutional_neural_network project on verilog
-This project implements a small neural network in Verilog with 2 Conv2D layers and 3 Fully connected layers.
+# LeNet Verilog Project
+The project implements a Convolutional Neural Network (CNN) in Verilog. The CNN is a small network with 2 Conv2D layers, one layer of max pooling and 3 Fully connected layers. The project is implemented in Verilog and simulated using Xilinx ISE. 
 
 ## Project Structure
 
